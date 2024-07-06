@@ -1,9 +1,10 @@
-👋 Hi, I’m Kriti Bhagat
-👀 I’m interested in Data Science, Frontend, and Data Structures & Algorithms
-🌱 I’m currently learning MERN Stack
+- 👋 Hi, I’m Kriti Bhagat
+- 👀 I’m interested in Data Science, Frontend, and Data Structures & Algorithms
+- 🌱 I’m currently learning MERN Stack
 
 Connect with me:
-https://www.linkedin.com/in/bhagatkriti/
+https://www.linkedin.com/in/bhagatkriti/![image](https://github.com/Kritibhagat29/Kritibhagat29/assets/145227592/1b924d21-b235-4399-b1b2-50eec1a72231)
+
 
 Languages and Tools:
 https://www.cprogramming.com/
